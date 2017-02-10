@@ -10,7 +10,7 @@ import os
 fo = open("foo.txt", "r+")
 print "file name : ", fo.name
 
-# print fo.write("www.wens.com.cn!")
+#print fo.write("www.abc.com.cn!")
 str = fo.read();
 print "what is read : ", str
 
