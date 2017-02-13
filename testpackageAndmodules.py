@@ -17,4 +17,6 @@ testpackage.wang();
 
 print kitty.__class__
 
+print kitty.__doc__
+
 testpackage.beast();
