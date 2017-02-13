@@ -14,3 +14,10 @@ def AddMoney():
 print Money
 AddMoney()
 print Money
+
+# ****************************************************
+import math
+
+content = dir(math)
+
+print content
