@@ -14,4 +14,7 @@ print hellokitty.miao()
 print kitty.__module__
 
 testpackage.wang();
+
+print kitty.__class__
+
 testpackage.beast();
