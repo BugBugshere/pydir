@@ -19,4 +19,6 @@ print kitty.__class__
 
 print kitty.__doc__
 
+print kitty.__dict__
+
 testpackage.beast();
