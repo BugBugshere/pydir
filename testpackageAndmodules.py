@@ -15,7 +15,7 @@ print kitty.__module__
 
 testpackage.wang();
 
-print kitty.__class__
+#print kitty.__class__
 
 print kitty.__doc__
 
